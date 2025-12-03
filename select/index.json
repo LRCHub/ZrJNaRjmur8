@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君の瞳に恋してない",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2025-12-03T09:40:54.056444Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の瞳に恋してない",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_君の瞳に恋してない_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
